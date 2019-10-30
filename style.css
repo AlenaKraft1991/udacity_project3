@@ -1,0 +1,9 @@
+body {
+    width: 505px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-left: 600px; 
+    /* justify-content: center; */
+}
